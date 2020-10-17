@@ -5,7 +5,7 @@
 * Define how the `map()` method works
 * Demonstrate `map()` with `Array`s
 * Demonstrate `map()` with complex data structures
-* Use `map()` to generate a new array
+* Use `map()` togenerate a new array
 
 
 ## Introduction
